@@ -8,3 +8,4 @@
 | Mir Fahad Abdullah | 2121572642 | fahad.abdullah@northsouth.edu |
 | Sairat Jamin Shefa | 2122172042 | shirat.shefa@northsouth.edu |
 | Md. Raduain Hossain Rimon | 2021995642 | raduain.rimon@northsouth.edu |
+| Fatema Rahman Lamia | 2021996642 | fatema.lamia@northsouth.edu |
