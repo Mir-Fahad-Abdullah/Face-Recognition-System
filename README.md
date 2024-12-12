@@ -1,4 +1,4 @@
-# Project Name: Face Recognition System
+# Project Name: Face Recognition System (Emotion Detection)
 ## Group Members :
 
 | Name | ID | NSU Email |
