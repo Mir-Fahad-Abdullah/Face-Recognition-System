@@ -1,11 +1,4 @@
-# Project Name: Face Recognition System (Emotion Detection)
-## Group Members :
-
-| Name | ID | NSU Email |
-| --- | --- | --- |
-| Mir Fahad Abdullah | 2121572642 | fahad.abdullah@northsouth.edu |
-| Sairat Jamin Shefa | 2122172042 | shirat.shefa@northsouth.edu |
-
+Face Recognition System (Emotion Detection)
 
 ## **Introduction:**
 Emotion detection using facial recognition technology is a rapidly advancing field within computer vision and artificial intelligence. It aims to analyze facial expressions in real-time to determine the emotional state of an individual. This technology has a wide range of applications, including in human-computer interaction, security systems, personalized marketing, and mental health monitoring.
