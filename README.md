@@ -29,6 +29,9 @@ Facial emotion detection typically involves two main stages: face detection and 
 4. **Model Training (Support Vector Classifier - SVC):**
    - **Support Vector Classifier (SVC):** SVC is a supervised machine learning algorithm that works by finding the optimal hyperplane that separates data points of different classes in a higher-dimensional space. For emotion detection, SVC can classify the extracted features (such as HOG and PCA) into different emotion categories. It is highly effective in scenarios where the classes are well-defined and the data is separable.
 
+System Diagram:
+
+<img width="726" height="918" alt="system_diagram" src="https://github.com/user-attachments/assets/ed087219-c815-49fb-99dd-8a3607f561cb" />
 
 ### Summary of Key Components:
 - **OpenCV**: For face detection and image processing.
